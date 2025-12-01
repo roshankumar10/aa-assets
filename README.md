@@ -1,4 +1,5 @@
 Atlas Academy – Email Image Assets & Automation
+test
 ==============================================
 
 All email-ready images for Atlas Academy newsletters, campaigns, and automations live in this repository. Assets are optimized locally and then delivered in production via the free jsDelivr CDN, so every Gmail, Outlook, iOS, or Android inbox gets fast-loading content.
