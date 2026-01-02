@@ -1,67 +1,255 @@
-Atlas Academy – Email Image Assets & Automation
-test
-==============================================
+<table>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/.DS_Store" width="200"><br>
+.DS_Store
+</td>
 
-All email-ready images for Atlas Academy newsletters, campaigns, and automations live in this repository. Assets are optimized locally and then delivered in production via the free jsDelivr CDN, so every Gmail, Outlook, iOS, or Android inbox gets fast-loading content.
+<td valign="bottom">
+<img src="./images/optimized/.gitkeep" width="200"><br>
+.gitkeep
+</td>
 
-Repository layout
------------------
-```
-aa-assets/
-├── images/
-│   ├── original/     # Source files (auto-created)
-│   ├── optimized/    # Outputs from the optimizer script
-│   └── *.png|*.jpg   # Working copies before optimization
-└── optimize_images.py
-```
+<td valign="bottom">
+<img src="./images/optimized/2025_dec_feature.jpg" width="200"><br>
+2025_dec_feature.jpg
+</td>
 
-Requirements
-------------
-- Python 3.9+
-- Pillow (`pip install pillow`)
-- Git access to push new image versions
+<td valign="bottom">
+<img src="./images/optimized/2025_dec_giving_drive.jpg" width="200"><br>
+2025_dec_giving_drive.jpg
+</td>
 
-Recommended workflow
---------------------
-1. **Add** the raw artwork to `images/`.
-2. **Run** `python3 optimize_images.py` to create email-friendly versions in `images/optimized/`.
-3. **Commit + push** so jsDelivr immediately serves the new assets from `main`.
-4. **Embed** the CDN URL in your email HTML.
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/2026_flyer.jpg" width="200"><br>
+2026_flyer.jpg
+</td>
 
-Adding new images
------------------
-- Drop files into `images/` (PNG or JPG/JPEG are fully supported).
-- Stick to lowercase descriptive names, e.g., `2026_summer_flyer.png`.
-- Avoid spaces or special characters; use `_` or `-` if you need separators.
+<td valign="bottom">
+<img src="./images/optimized/AA_DonationDrive_Gifts.jpg" width="200"><br>
+AA_DonationDrive_Gifts.jpg
+</td>
 
-Optimizing with `optimize_images.py`
-------------------------------------
-```bash
-python3 optimize_images.py
-```
-- Original files move into `images/original/` for safekeeping.
-- Optimized copies land in `images/optimized/` using JPEG unless the source is a transparent PNG.
-- Oversized images are scaled to a max width of 1920px while keeping the aspect ratio.
-- You can rerun the script at any time; existing originals are reused so you stay lossless.
+<td valign="bottom">
+<img src="./images/optimized/AA_DonationDrive_Kids.jpg" width="200"><br>
+AA_DonationDrive_Kids.jpg
+</td>
 
-Using the CDN URLs
-------------------
-This folder is mirrored to the public GitHub repo `roshankumar10/aa-assets`. jsDelivr serves whatever is pushed to `main`, so keep that mirror up to date (`git push origin main`) to publish new or updated images.
+<td valign="bottom">
+<img src="./images/optimized/AA_Fall2025_ReferralProgram.jpg" width="200"><br>
+AA_Fall2025_ReferralProgram.jpg
+</td>
 
-Every file on `main` is instantly cached by jsDelivr.
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/AA_ReferralProgram.jpg" width="200"><br>
+AA_ReferralProgram.jpg
+</td>
 
-```
-https://cdn.jsdelivr.net/gh/roshankumar10/aa-assets@main/images/optimized/<file_name>
-```
+<td valign="bottom">
+<img src="./images/optimized/AA_WinterBreak2025.jpg" width="200"><br>
+AA_WinterBreak2025.jpg
+</td>
 
-Example embed:
-```html
-<img src="https://cdn.jsdelivr.net/gh/roshankumar10/aa-assets@main/images/optimized/Atlas-Logo.jpg"
-     width="180" alt="Atlas Academy logo">
-```
+<td valign="bottom">
+<img src="./images/optimized/ALHGT-05.jpg" width="200"><br>
+ALHGT-05.jpg
+</td>
 
-Tips & troubleshooting
-----------------------
-- Need WebP or GIF output? Add it to `images/optimized/` manually and commit.
-- If Pillow is missing, install it with `python3 -m pip install pillow`.
-- To regenerate an image from scratch, delete its entries in `images/original/` and `images/optimized/`, then rerun the script.
+<td valign="bottom">
+<img src="./images/optimized/ALHGT-05v2.jpg" width="200"><br>
+ALHGT-05v2.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/Atlas-Logo.jpg" width="200"><br>
+Atlas-Logo.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/Coding_Flyer.jpg" width="200"><br>
+Coding_Flyer.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/Dec_11_InfoSession.jpg" width="200"><br>
+Dec_11_InfoSession.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/DeniseSiu.jpg" width="200"><br>
+DeniseSiu.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/andrew_ng.jpg" width="200"><br>
+andrew_ng.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/coding_class_1.jpg" width="200"><br>
+coding_class_1.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/coding_class_2.jpg" width="200"><br>
+coding_class_2.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/dante.jpg" width="200"><br>
+dante.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/fall2025_intake.jpg" width="200"><br>
+fall2025_intake.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/fall2025_intake2.jpg" width="200"><br>
+fall2025_intake2.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/fall2025_public.jpg" width="200"><br>
+fall2025_public.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/footer.jpg" width="200"><br>
+footer.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/gian_parent1.jpg" width="200"><br>
+gian_parent1.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/gian_student1.jpg" width="200"><br>
+gian_student1.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/google_review_link.jpg" width="200"><br>
+google_review_link.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/gwyneth_parent1.jpg" width="200"><br>
+gwyneth_parent1.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/gwyneth_student1.jpg" width="200"><br>
+gwyneth_student1.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/header.jpg" width="200"><br>
+header.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/holiday_drive_collection.jpg" width="200"><br>
+holiday_drive_collection.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/holiday_drive_community.jpg" width="200"><br>
+holiday_drive_community.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/holiday_drive_hero.jpg" width="200"><br>
+holiday_drive_hero.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/holiday_drive_students.jpg" width="200"><br>
+holiday_drive_students.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/instagram_icon.jpg" width="200"><br>
+instagram_icon.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/linkedin_icon.jpg" width="200"><br>
+linkedin_icon.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/madison_parent1.jpg" width="200"><br>
+madison_parent1.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/madison_student1.jpg" width="200"><br>
+madison_student1.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/miguel_student1.jpg" width="200"><br>
+miguel_student1.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/nov_2025_feature.jpg" width="200"><br>
+nov_2025_feature.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/oct2025_feature.jpg" width="200"><br>
+oct2025_feature.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/roshan.jpg" width="200"><br>
+roshan.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/sept_2025_feature.jpg" width="200"><br>
+sept_2025_feature.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/summercamp_2025.jpg" width="200"><br>
+summercamp_2025.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/website.png" width="200"><br>
+website.png
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/youtube_icon.jpg" width="200"><br>
+youtube_icon.jpg
+</td>
+
+</tr></table>
