@@ -23,10 +23,49 @@
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./images/optimized/2025_giving_drive.jpg" width="200"><br>
+2025_giving_drive.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/202602_ChromiumClass.jpg" width="200"><br>
+202602_ChromiumClass.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/202602_TeamPhoto.jpg" width="200"><br>
+202602_TeamPhoto.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/2026_feb_GivingDrive_Complete.jpg" width="200"><br>
+2026_feb_GivingDrive_Complete.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/2026_feb_feature.jpg" width="200"><br>
+2026_feb_feature.jpg
+</td>
+
+<td valign="bottom">
 <img src="./images/optimized/2026_flyer.jpg" width="200"><br>
 2026_flyer.jpg
 </td>
 
+<td valign="bottom">
+<img src="./images/optimized/2026_jan_feature.jpg" width="200"><br>
+2026_jan_feature.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/2026_mar_feature.jpg" width="200"><br>
+2026_mar_feature.jpg
+</td>
+
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/AA_DonationDrive_Gifts.jpg" width="200"><br>
 AA_DonationDrive_Gifts.jpg
@@ -42,13 +81,13 @@ AA_DonationDrive_Kids.jpg
 AA_Fall2025_ReferralProgram.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/AA_ReferralProgram.jpg" width="200"><br>
 AA_ReferralProgram.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/AA_WinterBreak2025.jpg" width="200"><br>
 AA_WinterBreak2025.jpg
@@ -64,13 +103,13 @@ ALHGT-05.jpg
 ALHGT-05v2.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/Atlas-Logo.jpg" width="200"><br>
 Atlas-Logo.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/Coding_Flyer.jpg" width="200"><br>
 Coding_Flyer.jpg
@@ -86,8 +125,18 @@ Dec_11_InfoSession.jpg
 DeniseSiu.jpg
 </td>
 
+<td valign="bottom">
+<img src="./images/optimized/UGM_logo.jpg" width="200"><br>
+UGM_logo.jpg
+</td>
+
 </tr>
 <tr>
+<td valign="bottom">
+<img src="./images/optimized/anchal_profile.jpg" width="200"><br>
+anchal_profile.jpg
+</td>
+
 <td valign="bottom">
 <img src="./images/optimized/andrew_ng.jpg" width="200"><br>
 andrew_ng.jpg
@@ -103,13 +152,13 @@ coding_class_1.jpg
 coding_class_2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/dante.jpg" width="200"><br>
 dante.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/fall2025_intake.jpg" width="200"><br>
 fall2025_intake.jpg
@@ -125,13 +174,13 @@ fall2025_intake2.jpg
 fall2025_public.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/footer.jpg" width="200"><br>
 footer.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/gian_parent1.jpg" width="200"><br>
 gian_parent1.jpg
@@ -147,13 +196,13 @@ gian_student1.jpg
 google_review_link.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/gwyneth_parent1.jpg" width="200"><br>
 gwyneth_parent1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/gwyneth_student1.jpg" width="200"><br>
 gwyneth_student1.jpg
@@ -169,13 +218,13 @@ header.jpg
 holiday_drive_collection.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/holiday_drive_community.jpg" width="200"><br>
 holiday_drive_community.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/holiday_drive_hero.jpg" width="200"><br>
 holiday_drive_hero.jpg
@@ -191,13 +240,13 @@ holiday_drive_students.jpg
 instagram_icon.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/linkedin_icon.jpg" width="200"><br>
 linkedin_icon.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/madison_parent1.jpg" width="200"><br>
 madison_parent1.jpg
@@ -213,13 +262,13 @@ madison_student1.jpg
 miguel_student1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/nov_2025_feature.jpg" width="200"><br>
 nov_2025_feature.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/oct2025_feature.jpg" width="200"><br>
 oct2025_feature.jpg
@@ -235,13 +284,13 @@ roshan.jpg
 sept_2025_feature.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/summercamp_2025.jpg" width="200"><br>
 summercamp_2025.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/website.png" width="200"><br>
 website.png
