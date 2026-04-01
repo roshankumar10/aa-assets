@@ -28,6 +28,23 @@
 </td>
 
 <td valign="bottom">
+<img src="./images/optimized/2026-april-feature.jpg" width="200"><br>
+2026-april-feature.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/2026-equinox-atlas-team.jpg" width="200"><br>
+2026-equinox-atlas-team.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/2026-equinox-hackathon.jpg" width="200"><br>
+2026-equinox-hackathon.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
 <img src="./images/optimized/202602_ChromiumClass.jpg" width="200"><br>
 202602_ChromiumClass.jpg
 </td>
@@ -42,13 +59,13 @@
 2026_feb_GivingDrive_Complete.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/2026_feb_feature.jpg" width="200"><br>
 2026_feb_feature.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/2026_flyer.jpg" width="200"><br>
 2026_flyer.jpg
@@ -64,13 +81,13 @@
 2026_mar_feature.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/AA_DonationDrive_Gifts.jpg" width="200"><br>
 AA_DonationDrive_Gifts.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/AA_DonationDrive_Kids.jpg" width="200"><br>
 AA_DonationDrive_Kids.jpg
@@ -86,13 +103,13 @@ AA_Fall2025_ReferralProgram.jpg
 AA_ReferralProgram.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/AA_WinterBreak2025.jpg" width="200"><br>
 AA_WinterBreak2025.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/ALHGT-05.jpg" width="200"><br>
 ALHGT-05.jpg
@@ -108,13 +125,13 @@ ALHGT-05v2.jpg
 Atlas-Logo.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/Coding_Flyer.jpg" width="200"><br>
 Coding_Flyer.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/Dec_11_InfoSession.jpg" width="200"><br>
 Dec_11_InfoSession.jpg
@@ -130,13 +147,13 @@ DeniseSiu.jpg
 UGM_logo.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/anchal_profile.jpg" width="200"><br>
 anchal_profile.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/andrew_ng.jpg" width="200"><br>
 andrew_ng.jpg
@@ -152,13 +169,13 @@ coding_class_1.jpg
 coding_class_2.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/counterspell-vancouver.jpg" width="200"><br>
 counterspell-vancouver.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/dante.jpg" width="200"><br>
 dante.jpg
@@ -174,13 +191,13 @@ equinox-hero-bg.jpg
 fall2025_intake.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/fall2025_intake2.jpg" width="200"><br>
 fall2025_intake2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/fall2025_public.jpg" width="200"><br>
 fall2025_public.jpg
@@ -196,13 +213,13 @@ footer.jpg
 gian_parent1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/gian_student1.jpg" width="200"><br>
 gian_student1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/google_review_link.jpg" width="200"><br>
 google_review_link.jpg
@@ -218,13 +235,13 @@ gwyneth_parent1.jpg
 gwyneth_student1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/hackathon-group.jpg" width="200"><br>
 hackathon-group.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/header.jpg" width="200"><br>
 header.jpg
@@ -240,13 +257,13 @@ holiday_drive_collection.jpg
 holiday_drive_community.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/holiday_drive_hero.jpg" width="200"><br>
 holiday_drive_hero.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/holiday_drive_students.jpg" width="200"><br>
 holiday_drive_students.jpg
@@ -255,6 +272,11 @@ holiday_drive_students.jpg
 <td valign="bottom">
 <img src="./images/optimized/instagram_icon.jpg" width="200"><br>
 instagram_icon.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/jamie-profile.jpg" width="200"><br>
+jamie-profile.jpg
 </td>
 
 <td valign="bottom">
