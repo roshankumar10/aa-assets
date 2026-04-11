@@ -155,6 +155,11 @@ UGM_logo.jpg
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./images/optimized/aa_header.jpg" width="200"><br>
+aa_header.jpg
+</td>
+
+<td valign="bottom">
 <img src="./images/optimized/anchal_profile.jpg" width="200"><br>
 anchal_profile.jpg
 </td>
@@ -169,13 +174,13 @@ andrew_ng.jpg
 animation.gif
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/coding_class_1.jpg" width="200"><br>
 coding_class_1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/coding_class_2.jpg" width="200"><br>
 coding_class_2.jpg
@@ -191,13 +196,13 @@ counterspell-vancouver.jpg
 dante.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/equinox-hero-bg.jpg" width="200"><br>
 equinox-hero-bg.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/fall2025_intake.jpg" width="200"><br>
 fall2025_intake.jpg
@@ -213,13 +218,13 @@ fall2025_intake2.jpg
 fall2025_public.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/footer.jpg" width="200"><br>
 footer.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/gian_parent1.jpg" width="200"><br>
 gian_parent1.jpg
@@ -235,13 +240,13 @@ gian_student1.jpg
 google_review_link.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/gwyneth_parent1.jpg" width="200"><br>
 gwyneth_parent1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/gwyneth_student1.jpg" width="200"><br>
 gwyneth_student1.jpg
@@ -257,13 +262,13 @@ hackathon-group.jpg
 header.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/holiday_drive_collection.jpg" width="200"><br>
 holiday_drive_collection.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/holiday_drive_community.jpg" width="200"><br>
 holiday_drive_community.jpg
@@ -279,13 +284,13 @@ holiday_drive_hero.jpg
 holiday_drive_students.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/instagram_icon.jpg" width="200"><br>
 instagram_icon.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/jamie-profile.jpg" width="200"><br>
 jamie-profile.jpg
@@ -301,13 +306,13 @@ linkedin_icon.jpg
 madison_parent1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/madison_student1.jpg" width="200"><br>
 madison_student1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/miguel_student1.jpg" width="200"><br>
 miguel_student1.jpg
@@ -323,13 +328,13 @@ nov_2025_feature.jpg
 oct2025_feature.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/roshan.jpg" width="200"><br>
 roshan.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/sept_2025_feature.jpg" width="200"><br>
 sept_2025_feature.jpg
@@ -345,6 +350,8 @@ summercamp_2025.jpg
 website.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/youtube_icon.jpg" width="200"><br>
 youtube_icon.jpg
