@@ -177,6 +177,11 @@ animation.gif
 </tr>
 <tr>
 <td valign="bottom">
+<img src="./images/optimized/classroom.jpg" width="200"><br>
+classroom.jpg
+</td>
+
+<td valign="bottom">
 <img src="./images/optimized/coding_class_1.jpg" width="200"><br>
 coding_class_1.jpg
 </td>
@@ -191,13 +196,13 @@ coding_class_2.jpg
 counterspell-vancouver.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/dante.jpg" width="200"><br>
 dante.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/equinox-hero-bg.jpg" width="200"><br>
 equinox-hero-bg.jpg
@@ -213,13 +218,13 @@ fall2025_intake.jpg
 fall2025_intake2.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/fall2025_public.jpg" width="200"><br>
 fall2025_public.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/footer.jpg" width="200"><br>
 footer.jpg
@@ -235,13 +240,13 @@ gian_parent1.jpg
 gian_student1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/google_review_link.jpg" width="200"><br>
 google_review_link.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/gwyneth_parent1.jpg" width="200"><br>
 gwyneth_parent1.jpg
@@ -257,13 +262,13 @@ gwyneth_student1.jpg
 hackathon-group.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/header.jpg" width="200"><br>
 header.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/holiday_drive_collection.jpg" width="200"><br>
 holiday_drive_collection.jpg
@@ -279,13 +284,13 @@ holiday_drive_community.jpg
 holiday_drive_hero.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/holiday_drive_students.jpg" width="200"><br>
 holiday_drive_students.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/instagram_icon.jpg" width="200"><br>
 instagram_icon.jpg
@@ -301,13 +306,13 @@ jamie-profile.jpg
 linkedin_icon.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/madison_parent1.jpg" width="200"><br>
 madison_parent1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/madison_student1.jpg" width="200"><br>
 madison_student1.jpg
@@ -323,13 +328,13 @@ miguel_student1.jpg
 nov_2025_feature.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/oct2025_feature.jpg" width="200"><br>
 oct2025_feature.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/roshan.jpg" width="200"><br>
 roshan.jpg
@@ -345,13 +350,13 @@ sept_2025_feature.jpg
 summercamp_2025.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/website.png" width="200"><br>
 website.png
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/youtube_icon.jpg" width="200"><br>
 youtube_icon.jpg
