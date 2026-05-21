@@ -358,6 +358,11 @@ oct2025_feature.jpg
 </td>
 
 <td valign="bottom">
+<img src="./images/optimized/qr-code-freeworkshops.jpg" width="200"><br>
+qr-code-freeworkshops.jpg
+</td>
+
+<td valign="bottom">
 <img src="./images/optimized/roshan.jpg" width="200"><br>
 roshan.jpg
 </td>
@@ -367,13 +372,13 @@ roshan.jpg
 sept_2025_feature.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/stanford_logo.jpg" width="200"><br>
 stanford_logo.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/summercamp_2025.jpg" width="200"><br>
 summercamp_2025.jpg
