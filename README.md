@@ -38,17 +38,12 @@
 </td>
 
 <td valign="bottom">
-<img src="./images/optimized/2026-june-feature.jpg" width="200"><br>
-2026-june-feature.jpg
-</td>
-
-</tr>
-<tr>
-<td valign="bottom">
 <img src="./images/optimized/202602_ChromiumClass.jpg" width="200"><br>
 202602_ChromiumClass.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/202602_TeamPhoto.jpg" width="200"><br>
 202602_TeamPhoto.jpg
@@ -64,13 +59,13 @@
 2026_feb_GivingDrive_Complete.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/2026_feb_feature.jpg" width="200"><br>
 2026_feb_feature.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/2026_flyer.jpg" width="200"><br>
 2026_flyer.jpg
@@ -79,6 +74,11 @@
 <td valign="bottom">
 <img src="./images/optimized/2026_jan_feature.jpg" width="200"><br>
 2026_jan_feature.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/2026_june_feature.jpg" width="200"><br>
+2026_june_feature.jpg
 </td>
 
 <td valign="bottom">
