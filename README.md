@@ -116,8 +116,8 @@
 </td>
 
 <td valign="bottom">
-<img src="./images/optimized/AA-Logo-Transparent.png" width="200"><br>
-AA-Logo-Transparent.png
+<img src="./images/optimized/AA-Transparent-Logo.png" width="200"><br>
+AA-Transparent-Logo.png
 </td>
 
 <td valign="bottom">
