@@ -226,6 +226,11 @@ andrew_ng.jpg
 </td>
 
 <td valign="bottom">
+<img src="./images/optimized/animation-sample-web.gif" width="200"><br>
+animation-sample-web.gif
+</td>
+
+<td valign="bottom">
 <img src="./images/optimized/animation.gif" width="200"><br>
 animation.gif
 </td>
@@ -235,13 +240,13 @@ animation.gif
 classroom.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/coding_class_1.jpg" width="200"><br>
 coding_class_1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/coding_class_2.jpg" width="200"><br>
 coding_class_2.jpg
@@ -257,13 +262,13 @@ counterspell-vancouver.jpg
 dante.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/equinox-hero-bg.jpg" width="200"><br>
 equinox-hero-bg.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/fall2025_intake.jpg" width="200"><br>
 fall2025_intake.jpg
@@ -279,13 +284,13 @@ fall2025_intake2.jpg
 fall2025_public.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/footer.jpg" width="200"><br>
 footer.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/gian_parent1.jpg" width="200"><br>
 gian_parent1.jpg
@@ -301,13 +306,13 @@ gian_student1.jpg
 google_review_link.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/gwyneth_parent1.jpg" width="200"><br>
 gwyneth_parent1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/gwyneth_student1.jpg" width="200"><br>
 gwyneth_student1.jpg
@@ -323,13 +328,13 @@ hackathon-group.jpg
 happy-canada-day.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/harvard_logo.jpg" width="200"><br>
 harvard_logo.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/header.jpg" width="200"><br>
 header.jpg
@@ -345,13 +350,13 @@ holiday_drive_collection.jpg
 holiday_drive_community.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/holiday_drive_hero.jpg" width="200"><br>
 holiday_drive_hero.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/holiday_drive_students.jpg" width="200"><br>
 holiday_drive_students.jpg
@@ -367,13 +372,13 @@ instagram_icon.jpg
 jamie-profile.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/july-2026-students-working.jpg" width="200"><br>
 july-2026-students-working.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/linkedin_icon.jpg" width="200"><br>
 linkedin_icon.jpg
@@ -389,13 +394,13 @@ madison_parent1.jpg
 madison_student1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/miguel_student1.jpg" width="200"><br>
 miguel_student1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/mit_logo.jpg" width="200"><br>
 mit_logo.jpg
@@ -411,13 +416,13 @@ nov_2025_feature.jpg
 oct2025_feature.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/principles-of-animation-exercise_SAMPLE.gif" width="200"><br>
 principles-of-animation-exercise_SAMPLE.gif
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/qr-code-freeworkshops.jpg" width="200"><br>
 qr-code-freeworkshops.jpg
@@ -433,13 +438,13 @@ roshan.jpg
 scene-creation_SAMPLE.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/sept_2025_feature.jpg" width="200"><br>
 sept_2025_feature.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/stanford_logo.jpg" width="200"><br>
 stanford_logo.jpg
@@ -455,6 +460,8 @@ summercamp_2025.jpg
 website.png
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/youtube_icon.jpg" width="200"><br>
 youtube_icon.jpg
