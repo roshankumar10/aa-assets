@@ -1,11 +1,6 @@
 <table>
 <tr>
 <td valign="bottom">
-<img src="./images/optimized/.DS_Store" width="200"><br>
-.DS_Store
-</td>
-
-<td valign="bottom">
 <img src="./images/optimized/.gitkeep" width="200"><br>
 .gitkeep
 </td>
@@ -20,13 +15,13 @@
 2025_dec_giving_drive.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/2025_giving_drive.jpg" width="200"><br>
 2025_giving_drive.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/2026-april-feature.jpg" width="200"><br>
 2026-april-feature.jpg
@@ -40,6 +35,11 @@
 <td valign="bottom">
 <img src="./images/optimized/2026-equinox-hackathon.jpg" width="200"><br>
 2026-equinox-hackathon.jpg
+</td>
+
+<td valign="bottom">
+<img src="./images/optimized/2026-july-feature.jpg" width="200"><br>
+2026-july-feature.jpg
 </td>
 
 </tr>
@@ -358,6 +358,11 @@ jamie-profile.jpg
 </td>
 
 <td valign="bottom">
+<img src="./images/optimized/july-2026-students-working.jpg" width="200"><br>
+july-2026-students-working.jpg
+</td>
+
+<td valign="bottom">
 <img src="./images/optimized/linkedin_icon.jpg" width="200"><br>
 linkedin_icon.jpg
 </td>
@@ -367,13 +372,13 @@ linkedin_icon.jpg
 madison_parent1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/madison_student1.jpg" width="200"><br>
 madison_student1.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/miguel_student1.jpg" width="200"><br>
 miguel_student1.jpg
@@ -389,13 +394,18 @@ mit_logo.jpg
 nov_2025_feature.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/oct2025_feature.jpg" width="200"><br>
 oct2025_feature.jpg
 </td>
 
-</tr>
-<tr>
+<td valign="bottom">
+<img src="./images/optimized/principles-of-animation-exercise_SAMPLE.gif" width="200"><br>
+principles-of-animation-exercise_SAMPLE.gif
+</td>
+
 <td valign="bottom">
 <img src="./images/optimized/qr-code-freeworkshops.jpg" width="200"><br>
 qr-code-freeworkshops.jpg
@@ -404,6 +414,13 @@ qr-code-freeworkshops.jpg
 <td valign="bottom">
 <img src="./images/optimized/roshan.jpg" width="200"><br>
 roshan.jpg
+</td>
+
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/scene-creation_SAMPLE.jpg" width="200"><br>
+scene-creation_SAMPLE.jpg
 </td>
 
 <td valign="bottom">
@@ -416,13 +433,13 @@ sept_2025_feature.jpg
 stanford_logo.jpg
 </td>
 
-</tr>
-<tr>
 <td valign="bottom">
 <img src="./images/optimized/summercamp_2025.jpg" width="200"><br>
 summercamp_2025.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/website.png" width="200"><br>
 website.png
