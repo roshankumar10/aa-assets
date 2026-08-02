@@ -181,6 +181,13 @@ Atlas_3D_modelling.jpg
 Atlas_3D_modelling_email.jpg
 </td>
 
+</tr>
+<tr>
+<td valign="bottom">
+<img src="./images/optimized/BC_Snowman_Animation.gif" width="200"><br>
+BC_Snowman_Animation.gif
+</td>
+
 <td valign="bottom">
 <img src="./images/optimized/Coding_Flyer.jpg" width="200"><br>
 Coding_Flyer.jpg
@@ -247,6 +254,8 @@ classroom.jpg
 coding_class_1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/coding_class_2.jpg" width="200"><br>
 coding_class_2.jpg
@@ -269,6 +278,8 @@ dante.jpg
 equinox-hero-bg.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/fall2025_intake.jpg" width="200"><br>
 fall2025_intake.jpg
@@ -291,6 +302,8 @@ fall2025_public.jpg
 footer.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/gian_parent1.jpg" width="200"><br>
 gian_parent1.jpg
@@ -313,6 +326,8 @@ google_review_link.jpg
 gwyneth_parent1.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/gwyneth_student1.jpg" width="200"><br>
 gwyneth_student1.jpg
@@ -340,6 +355,8 @@ harvard_logo.jpg
 header.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/holiday_drive_collection.jpg" width="200"><br>
 holiday_drive_collection.jpg
@@ -362,6 +379,8 @@ holiday_drive_hero.jpg
 holiday_drive_students.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/instagram_icon.jpg" width="200"><br>
 instagram_icon.jpg
@@ -384,6 +403,8 @@ july-2026-students-working.jpg
 linkedin_icon.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/madison_parent1.jpg" width="200"><br>
 madison_parent1.jpg
@@ -406,6 +427,8 @@ miguel_student1.jpg
 mit_logo.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/nov_2025_feature.jpg" width="200"><br>
 nov_2025_feature.jpg
@@ -428,6 +451,8 @@ principles-of-animation-exercise_SAMPLE.gif
 qr-code-freeworkshops.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/roshan.jpg" width="200"><br>
 roshan.jpg
@@ -450,6 +475,8 @@ sept_2025_feature.jpg
 stanford_logo.jpg
 </td>
 
+</tr>
+<tr>
 <td valign="bottom">
 <img src="./images/optimized/summercamp_2025.jpg" width="200"><br>
 summercamp_2025.jpg
