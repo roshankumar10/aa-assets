@@ -1,0 +1,27 @@
+{
+  "first_name": "Chad",
+  "last_name": "Willington",
+  "level": "Level 5",
+  "course": "The Backend",
+  "learned": [
+    "GitLab",
+    "Flask API",
+    "SQL and Python",
+    "REST",
+    "Account Security",
+    "Data Relationships"
+  ],
+  "skills": [
+    "SQL",
+    "RESTful APIs",
+    "Your own social network"
+  ],
+  "intro_skills_style": "checklist",
+  "outro_skills_style": "checklist",
+  "next_level": "Level 6",
+  "next_title": "Course Title",
+  "intro_note": "behind the scenes!",
+  "learned_note": "the stuff apps run on",
+  "skills_note": "yes, your own social network!",
+  "note": "can't wait to see what you'll create!"
+}

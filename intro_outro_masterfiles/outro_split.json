@@ -1,0 +1,17 @@
+{
+  "render_level": 2,
+  "out": "outro_level{level}_general.mov",
+  "name_plate": false,
+  "learned_section": true,
+  "skills_section": true,
+  "logo": true,
+  "end_card": true,
+  "learned_heading": "What They Learned",
+  "skills_heading": "Curriculum Highlights",
+  "skills_key": "highlights",
+  "skills_note": "",
+  "learned_note_arrow": false,
+  "outro_durations": {
+    "skills": 4.9
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "first_name": "Chad",
+  "last_name": "Willington",
+  "level": "Level 3",
+  "course": "Solving Problems with Algorithms",
+  "learned": [
+    "GitHub and GitLab",
+    "Classes and Objects",
+    "Sorting",
+    "2D arrays",
+    "Update and Draw Loop"
+  ],
+  "skills": [
+    "Patterns and Architecture",
+    "Using loops to update and draw",
+    "Dictionaries and Buttons"
+  ],
+  "intro_skills_style": "checklist",
+  "outro_skills_style": "checklist",
+  "next_level": "Level 4",
+  "next_title": "Web and Internet Foundations",
+  "intro_note": "the big project level!",
+  "learned_note": "real dev tools - nice!",
+  "skills_note": "this is how pros work",
+  "note": "can't wait to see what you'll create!"
+}

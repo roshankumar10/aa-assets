@@ -1,0 +1,31 @@
+{
+  "first_name": "Chad",
+  "last_name": "Willington",
+  "level": "Level 1",
+  "course": "Intro to Software Engineering",
+  "learned": [
+    "LEDs",
+    "Conditionals",
+    "Buzzers",
+    "While Loops",
+    "Buttons"
+  ],
+  "skills": [
+    "Functions",
+    "Parameters and Return Values",
+    "Lists",
+    "For Loops"
+  ],
+  "intro_skills_style": "checklist",
+  "outro_skills_style": "checklist",
+  "next_level": "Level 2",
+  "next_title": "Modelling & Animation Depth",
+  "intro_note": "this one's a fun one!",
+  "learned_note": "you built all of these!",
+  "skills_note": "awesome work there!",
+  "note": "can't wait to see what you'll create!",
+  "chip_notes": {
+    "For Loops": "my favourite!",
+    "Lists": "use these everywhere"
+  }
+}

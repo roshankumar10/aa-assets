@@ -1,0 +1,31 @@
+{
+  "first_name": "Chad",
+  "last_name": "Willington",
+  "level": "Level 2",
+  "course": "Interactive Programming and Sensors",
+  "learned": [
+    "Git and GitLab",
+    "Dictionaries",
+    "Loop Control",
+    "CSV Files",
+    "Temperature and Humidity Sensing",
+    "Digital Sensors and Combining Files"
+  ],
+  "skills": [
+    "Identifying trends",
+    "How to program light sensors",
+    "I2C Protocol"
+  ],
+  "highlights": ["Advanced Python Concepts", "Process Sensor Data", "Use File Input/Output"],
+  "intro_skills_style": "checklist",
+  "outro_skills_style": "checklist",
+  "next_level": "Level 3",
+  "next_title": "Solving Problems with Algorithms",
+  "intro_note": "",
+  "learned_note": "look how far you've come!",
+  "skills_note": "these unlock Level 3",
+  "note": "can't wait to see what you'll create!",
+  "learned_section": false,
+  "skills_section": false,
+  "name_plate": false
+}

@@ -1,0 +1,169 @@
+{
+  "url": "www.atlas-academy.ca",
+  "note": "",
+  "note_from": "",
+  "intro_note": "",
+  "learned_note": "",
+  "skills_note": "",
+  "chip_notes": {},
+  "intro_durations": {"reel": 7.4, "title": 7.6},
+  "outro_durations": {"complete": 4.4, "learned": 3.6, "skills": 2.4, "next": 1.9, "end": 4.2},
+  "hand_title_line": true,
+  "hand_url_line": false,
+  "levels": [
+    {
+      "level": "Level 1",
+      "course": "Intro to Systems Engineering",
+      "learned": [
+        "LEDs",
+        "Conditionals",
+        "Buzzers",
+        "While Loops",
+        "Buttons"
+      ],
+      "skills": [
+        "Functions",
+        "Parameters and Return Values",
+        "Lists",
+        "For Loops"
+      ],
+      "intro_skills_style": "chips",
+      "outro_skills_style": "chips",
+      "next_level": "Level 2",
+      "next_title": "Modelling & Animation Depth",
+      "intro_note": "this one's a fun one!",
+      "learned_note": "you built all of these!",
+      "skills_note": "you'll use these every level",
+      "note": "Great work this level - see you in Level 2!",
+      "chip_notes": {
+        "For Loops": "my favourite!",
+        "Lists": "use these everywhere"
+      }
+    },
+    {
+      "level": "Level 2",
+      "course": "Modelling & Animation Depth",
+      "learned": [
+        "Topic 1",
+        "Topic 2",
+        "Topic 3",
+        "Topic 4",
+        "Topic 5",
+        "Topic 6"
+      ],
+      "skills": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3"
+      ],
+      "intro_skills_style": "tube",
+      "outro_skills_style": "tube",
+      "next_level": "Level 3",
+      "next_title": "Intro to Systems Engineering",
+      "intro_note": "time to make things move!",
+      "learned_note": "look how far you've come!",
+      "skills_note": "these unlock Level 3",
+      "note": "Great work this level - see you in Level 3!"
+    },
+    {
+      "level": "Level 3",
+      "course": "Mini Hub Hardware Project",
+      "learned": [
+        "Github and Gitlab",
+        "Classes and Objects",
+        "Sorting",
+        "2D arrays",
+        "Update and Draw Loop",
+        "Patterns and Architecture"
+      ],
+      "skills": [
+        "Flow Charting",
+        "Repo Creation",
+        "Hardware programming"
+      ],
+      "intro_skills_style": "chips",
+      "outro_skills_style": "chips",
+      "next_level": "Level 4",
+      "next_title": "Course Title",
+      "intro_note": "the big project level!",
+      "learned_note": "real dev tools - nice!",
+      "skills_note": "this is how pros work",
+      "note": "Great work this level - see you in Level 4!"
+    },
+    {
+      "level": "Level 4",
+      "course": "Course Title",
+      "learned": [
+        "Topic 1",
+        "Topic 2",
+        "Topic 3",
+        "Topic 4",
+        "Topic 5",
+        "Topic 6"
+      ],
+      "skills": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3"
+      ],
+      "intro_skills_style": "tube",
+      "outro_skills_style": "tube",
+      "next_level": "Level 5",
+      "next_title": "Course Title",
+      "intro_note": "levelling up!",
+      "learned_note": "you built all of these!",
+      "skills_note": "these carry into Level 5",
+      "note": "Great work this level - see you in Level 5!"
+    },
+    {
+      "level": "Level 5",
+      "course": "The Backend",
+      "learned": [
+        "Git Lab ",
+        "Flask API",
+        "SQL and Python",
+        "REST",
+        "Account Security",
+        "Data Relationships"
+      ],
+      "skills": [
+        "SQL",
+        "RESTful APIs",
+        "Your own social network"
+      ],
+      "intro_skills_style": "chips",
+      "outro_skills_style": "chips",
+      "next_level": "Level 6",
+      "next_title": "Course Title",
+      "intro_note": "behind the scenes!",
+      "learned_note": "the stuff apps run on",
+      "skills_note": "yes, your own social network!",
+      "note": "Great work this level - see you in Level 6!"
+    },
+    {
+      "level": "Level 6",
+      "course": "Course Title",
+      "learned": [
+        "Topic 1",
+        "Topic 2",
+        "Topic 3",
+        "Topic 4",
+        "Topic 5",
+        "Topic 6"
+      ],
+      "skills": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3"
+      ],
+      "intro_skills_style": "tube",
+      "outro_skills_style": "tube",
+      "next_level": "",
+      "next_title": "",
+      "intro_note": "the final level!",
+      "learned_note": "you built all of these!",
+      "skills_note": "you're a builder now",
+      "note": "You did it - all six levels!"
+    }
+  ]
+}

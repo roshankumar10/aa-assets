@@ -1,0 +1,39 @@
+{
+  "render_level": 2,
+  "first_name": "Suhaib",
+  "last_name": "Mohamed Hussein Ahmed Hussein",
+  "name_tail": 0.2,
+  "general_tail": 0.1,
+  "title_card": false,
+  "reel_logo": true,
+  "personal_lists": true,
+  "show_logo": false,
+  "fade_logo": true,
+  "intro_durations": {
+    "reel": 7.4,
+    "title": 7.6
+  },
+  "outro_durations": {
+    "complete": 4.4,
+    "skills": 4.6
+  },
+  "learned_note_arrow": false,
+  "skills_note_arrow": false,
+  "intro_skills_style": "checklist",
+  "intro_note": "",
+  "chip_notes": {},
+  "hand_title_line": true,
+  "reel": {
+    "prefix": "Atlas",
+    "words": ["3D Modelling", "Animation", "Robotics", "Coding", "Circuitry", "Debugging"],
+    "land": "Academy",
+    "loops": 1,
+    "start": 1.15,
+    "first_hold": 0.62,
+    "last_hold": 0.32,
+    "ease": 1.6,
+    "snap": 0.26,
+    "overshoot": 2.2,
+    "direction": "up"
+  }
+}

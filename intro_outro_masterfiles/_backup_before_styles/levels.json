@@ -1,0 +1,131 @@
+{
+  "url": "www.atlas-academy.ca",
+  "levels": [
+    {
+      "level": "Level 1",
+      "course": "Intro to Systems Engineering",
+      "learned": [
+        "LEDs",
+        "Conditionals",
+        "Buzzers",
+        "While Loops",
+        "Buttons"
+      ],
+      "skills": [
+        "Functions",
+        "Parameters and Return Values",
+        "Lists",
+	"For Loops"
+      ],
+      "intro_skills_style": "chips",
+      "outro_skills_style": "chips",
+      "next_level": "Level 2",
+      "next_title": "Modelling & Animation Depth"
+    },
+    {
+      "level": "Level 2",
+      "course": "Modelling & Animation Depth",
+      "learned": [
+        "Topic 1",
+        "Topic 2",
+        "Topic 3",
+        "Topic 4",
+        "Topic 5",
+        "Topic 6"
+      ],
+      "skills": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3"
+      ],
+      "intro_skills_style": "tube",
+      "outro_skills_style": "tube",
+      "next_level": "Level 3",
+      "next_title": "Intro to Systems Engineering"
+    },
+    {
+      "level": "Level 3",
+      "course": "Mini Hub Hardware Project",
+      "learned": [
+        "Github and Gitlab",
+        "Classes and Objects",
+        "Sorting",
+        "2D arrays",
+        "Update and Draw Loop",
+        "Patterns and Architecture"
+      ],
+      "skills": [
+        "Flow Charting",
+        "Repo Creation",
+        "Hardware programming"
+      ],
+      "intro_skills_style": "chips",
+      "outro_skills_style": "chips",
+      "next_level": "Level 4",
+      "next_title": "Course Title"
+    },
+    {
+      "level": "Level 4",
+      "course": "Course Title",
+      "learned": [
+        "Topic 1",
+        "Topic 2",
+        "Topic 3",
+        "Topic 4",
+        "Topic 5",
+        "Topic 6"
+      ],
+      "skills": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3"
+      ],
+      "intro_skills_style": "tube",
+      "outro_skills_style": "tube",
+      "next_level": "Level 5",
+      "next_title": "Course Title"
+    },
+    {
+      "level": "Level 5",
+      "course": "The Backend",
+      "learned": [
+        "Git Lab ",
+        "Flask API",
+        "SQL and Python",
+        "REST",
+        "Account Security",
+        "Data Relationships"
+      ],
+      "skills": [
+        "SQL",
+        "RESTful APIs",
+        "Your own social network"
+      ],
+      "intro_skills_style": "chips",
+      "outro_skills_style": "chips",
+      "next_level": "Level 6",
+      "next_title": "Course Title"
+    },
+    {
+      "level": "Level 6",
+      "course": "Course Title",
+      "learned": [
+        "Topic 1",
+        "Topic 2",
+        "Topic 3",
+        "Topic 4",
+        "Topic 5",
+        "Topic 6"
+      ],
+      "skills": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3"
+      ],
+      "intro_skills_style": "tube",
+      "outro_skills_style": "tube",
+      "next_level": "",
+      "next_title": ""
+    }
+  ]
+}

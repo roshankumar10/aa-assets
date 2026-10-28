@@ -1,0 +1,27 @@
+{
+  "first_name": "Chad",
+  "last_name": "Willington",
+  "level": "Level 4",
+  "course": "Web and Internet Foundations",
+  "learned": [
+    "Topic 1",
+    "Topic 2",
+    "Topic 3",
+    "Topic 4",
+    "Topic 5",
+    "Topic 6"
+  ],
+  "skills": [
+    "Skill 1",
+    "Skill 2",
+    "Skill 3"
+  ],
+  "intro_skills_style": "checklist",
+  "outro_skills_style": "checklist",
+  "next_level": "Level 5",
+  "next_title": "Course Title",
+  "intro_note": "levelling up!",
+  "learned_note": "you built all of these!",
+  "skills_note": "these carry into Level 5",
+  "note": "can't wait to see what you'll create!"
+}

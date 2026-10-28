@@ -1,0 +1,24 @@
+{
+  "url": "www.atlas-academy.ca",
+  "first_name": "First Name",
+  "last_name": "Last Name",
+  "note": "",
+  "note_from": "",
+  "intro_note": "",
+  "learned_note": "",
+  "skills_note": "",
+  "chip_notes": {},
+  "intro_durations": {
+    "reel": 7.4,
+    "title": 7.6
+  },
+  "outro_durations": {
+    "complete": 4.4,
+    "learned": 3.6,
+    "skills": 2.4,
+    "next": 1.9,
+    "end": 4.2
+  },
+  "hand_title_line": true,
+  "hand_url_line": false
+}
