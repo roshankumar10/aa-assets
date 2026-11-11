@@ -1,0 +1,45 @@
+Still curious what your child could build?
+
+Hi {{first_name}},
+
+It's been a while, so here's a quick look at what's happening at Atlas Academy.
+
+WHAT'S NEW
+
+* Now in Vancouver too.
+  Classes at Young Guns Studio, 2239 Oak St, as well as our Richmond studio.
+
+* From first LED to their own AI agent.
+  Software Engineering runs in six levels, from a blinking LED on a Raspberry Pi
+  to building their own AI agent at Level 6.
+
+* 3D Modelling & Animation.
+  In Blender, students model, rig and animate their own original characters.
+  No art experience needed.
+
+SEE IT BEFORE YOU SIGN UP
+
+Book a free workshop and watch what your child can build in a single session.
+We'll help you find the right level.
+
+Book a free workshop: {{booking_url}}
+
+Every course is designed and taught by engineers and designers working at
+EA, IBM and Confluent. Classes are small, there's no homework, and nobody copies
+steps off a screen: students work out why something works, then build it themselves.
+
+Questions? Just reply to this email or call us at +1 (778) 839 0873.
+
+The Atlas Academy team
+
+---
+Hearing from us too often? Get fewer emails or workshop news only:
+{{preferences_url}}
+
+Atlas Academy
+Sands Plaza, 11020 No 5 Rd, Unit 213, Richmond, BC V6W 1K6
+Young Guns Studio, 2239 Oak St, Vancouver, BC
++1 (778) 839 0873 | admin@atlas-academy.ca | atlas-academy.ca
+
+You're receiving this because you signed up for updates from Atlas Academy.
+Unsubscribe: {{unsubscribe_url}}

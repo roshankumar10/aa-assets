@@ -1,0 +1,147 @@
+/* Atlas Academy tri-fold brochures: shared styles.
+   Sheet = A4 landscape (297 x 210 mm), three 99 mm panels.
+   Rules from the brochure brief:
+   - one gold block per side at most
+   - no centred gold body text (gold is for headings / accents only)
+   - body text 10pt or larger
+   - identical panel margins everywhere (--pad) */
+
+@font-face { font-family: "Outfit"; src: url("fonts/Outfit.ttf") format("truetype"); font-weight: 100 900; }
+@font-face { font-family: "DM Sans"; src: url("fonts/DMSans.ttf") format("truetype"); font-weight: 100 1000; }
+@font-face { font-family: "Caveat"; src: url("fonts/Caveat.ttf") format("truetype"); font-weight: 400 700; }
+
+:root {
+  --navy: #1a2249;
+  --navy-deep: #131938;
+  --gold: #e0b15d;
+  --cyan: #26a4cb;     /* official logo colour on dark backgrounds */
+  --ink: #f3f4f8;      /* body text on navy */
+  --ink-dim: #c9cde0;
+  --on-gold: #141a3a;  /* text inside the gold block */
+  --pad-x: 10mm;
+  --pad-y: 12mm;
+}
+
+@page { size: 297mm 210mm; margin: 0; }
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { background: #555; }
+body {
+  font-family: "DM Sans", sans-serif;
+  font-size: 10pt;
+  line-height: 1.42;
+  color: var(--ink);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.sheet {
+  width: 297mm; height: 210mm;
+  display: grid;
+  grid-template-columns: repeat(3, 99mm);
+  background: var(--navy);
+  overflow: hidden;
+  break-after: page;
+  position: relative;
+}
+.sheet:last-child { break-after: auto; }
+@media screen { .sheet { margin: 10mm auto; box-shadow: 0 4px 30px #0008; } }
+
+.panel {
+  position: relative;
+  padding: var(--pad-y) var(--pad-x);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* ---------- type ---------- */
+h1, h2, h3 { font-family: "Outfit", sans-serif; line-height: 1.08; }
+h2 { font-size: 19pt; font-weight: 700; color: var(--gold); margin-bottom: 3mm; }
+h3 { font-size: 12pt; font-weight: 650; margin-bottom: 1mm; }
+p + p { margin-top: 2.2mm; }
+strong { font-weight: 700; }
+.section + .section, .ask + .section { margin-top: 6mm; }
+.url { color: var(--cyan); font-weight: 500; }
+.muted { color: var(--ink-dim); }
+
+/* ---------- gold block (max one per side) ---------- */
+.gold-block {
+  background: var(--gold);
+  color: var(--on-gold);
+}
+.gold-block h2 { color: var(--on-gold); }
+
+/* ---------- guiding stars ---------- */
+.stars { list-style: none; display: grid; gap: 3.2mm; }
+.stars li { display: grid; grid-template-columns: 6mm 1fr; }
+.stars li::before { content: "\2605"; color: var(--gold); font-size: 12pt; line-height: 1.2; }
+.stars strong { display: block; font-family: "Outfit"; font-size: 11.5pt; font-weight: 650; line-height: 1.2; margin-bottom: .6mm; }
+
+/* ---------- QR ---------- */
+.qr { margin-top: auto; display: grid; grid-template-columns: 27mm 1fr; gap: 4mm; align-items: center;
+      border: .5mm solid var(--cyan); border-radius: 4mm; padding: 4mm; }
+.qr img { width: 27mm; height: 27mm; background: #fff; padding: 1.5mm; border-radius: 1.5mm; display: block; }
+.qr .lbl { font-family: "Outfit"; font-weight: 650; font-size: 13pt; line-height: 1.15; }
+.qr .sub { color: var(--ink-dim); margin-top: 1mm; }
+
+/* ---------- contact (back panel, the gold block on the outside) ---------- */
+.contact h2 { font-size: 22pt; }
+.cta { list-style: none; display: grid; gap: 6mm; margin: 7mm 0 0; font-size: 10.5pt; }
+.cta li { display: grid; grid-template-columns: 8mm 1fr; align-items: start; }
+.cta .ic { width: 6mm; height: 6mm; border-radius: 50%; background: var(--on-gold); color: var(--gold);
+           display: grid; place-items: center; font-size: 8pt; font-weight: 700; margin-top: .4mm; }
+.cta strong { display: block; font-family: "Outfit"; font-size: 12.5pt; font-weight: 650; }
+.locations { margin-top: auto; border-top: .4mm solid #141a3a55; padding-top: 4mm; display: grid; gap: 3mm; }
+.locations strong { font-family: "Outfit"; font-size: 11pt; font-weight: 650; display: block; }
+
+/* ---------- cover ---------- */
+.cover { padding: 0; }
+.cover .hero { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.cover .shade { position: absolute; inset: 0;
+  background: linear-gradient(180deg, #131938e6 0%, #13193855 28%, #13193833 45%, #131938d9 68%, #131938 100%); }
+.cover .inner { position: relative; height: 100%; padding: var(--pad-y) var(--pad-x); display: flex; flex-direction: column; }
+.cover .logo { width: 42mm; }
+.cover .headline { margin-top: auto; font-family: "Outfit"; font-weight: 800; color: #fff; line-height: 1.02; }
+.cover .program { margin-top: 4mm; font-family: "Outfit"; font-weight: 600; font-size: 12pt; color: var(--gold); }
+.cover .foot { margin-top: 3mm; }
+
+/* the "USERS -> BUILDERS" gold pen correction */
+.pen { position: relative; display: inline-block; color: #ffffffb3; }
+.pen svg { position: absolute; left: -4%; top: 40%; width: 108%; height: 30%; overflow: visible; }
+.pen svg path { fill: none; stroke: var(--gold); stroke-width: 5; stroke-linecap: round; }
+.fix { display: inline-block; font-family: "Caveat"; font-weight: 700; color: var(--gold); font-size: 1.45em;
+       line-height: .8; transform: rotate(-6deg) translateY(-.08em); margin-left: .12em; white-space: nowrap; }
+
+/* ---------- photos ---------- */
+.photo { width: 100%; object-fit: cover; border-radius: 3mm; display: block; }
+.caption { margin-top: 1.5mm; color: var(--ink-dim); }
+
+/* ---------- level ladder ---------- */
+.ladder { list-style: none; display: grid; gap: 1.9mm; }
+.ladder li { display: grid; grid-template-columns: 11mm 1fr; align-items: start; }
+.ladder .n { font-family: "Outfit"; font-weight: 800; font-size: 9pt; letter-spacing: .04em;
+             border: .45mm solid var(--gold); color: var(--gold); border-radius: 1.5mm;
+             text-align: center; padding: .6mm 0; margin-top: .3mm; width: 9mm; }
+.ladder li:last-child .n { background: var(--gold); color: var(--navy); }
+.ladder strong { display: block; font-family: "Outfit"; font-weight: 650; font-size: 10.5pt; line-height: 1.2; }
+
+/* ---------- parent-question callout ---------- */
+.ask { border-left: .9mm solid var(--gold); padding-left: 4mm; }
+.ask h2 { font-size: 17pt; }
+.gold-block .ask { border-color: var(--on-gold); }
+
+/* ---------- quote ---------- */
+.quote { display: grid; grid-template-columns: 17mm 1fr; gap: 4mm; align-items: center; }
+.quote img { width: 17mm; height: 17mm; border-radius: 50%; object-fit: cover; }
+.quote blockquote, .quote .lead { font-family: "Outfit"; font-size: 11pt; font-weight: 500; line-height: 1.25; }
+.quote cite { display: block; font-style: normal; font-size: 10pt; margin-top: 1mm; opacity: .85; }
+
+/* ---------- sequence (3DMA wireframe -> rigged -> final) ---------- */
+.seq { display: grid; gap: 2mm; }
+.seq figure { position: relative; }
+.seq img { width: 100%; height: 25mm; object-fit: cover; border-radius: 2.5mm; display: block; }
+.seq figcaption { position: absolute; left: 2mm; bottom: 1.6mm; background: var(--navy); color: var(--gold);
+                  font-family: "Outfit"; font-weight: 650; font-size: 10pt; padding: .3mm 2mm; border-radius: 1mm; }
+
+/* ---------- placeholders: remove before print ---------- */
+
